@@ -1,5 +1,4 @@
 # AthenaHacks
-## 2019
 
 This repository holds the code from an android app that was built during at 24 hour hackathon.
 
